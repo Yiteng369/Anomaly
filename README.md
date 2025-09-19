@@ -2,8 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-blue)](./CISP_BMEI_2025_Yiteng.pdf)\
 [![Dataset](https://img.shields.io/badge/Data-IPR%20Station-green)](https://meta.icos-cp.eu/objects/oCyeHuFmx9RcyUtZ7fM1C2i7)\
-[![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📖 Introduction
 
