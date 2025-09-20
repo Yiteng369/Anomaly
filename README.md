@@ -12,11 +12,11 @@ Anomaly Detection"** (CISP-BMEI 2025).
 Greenhouse gas (GHG) time series are often affected by anomalies and
 structural breaks due to sensor errors, calibration periods, or episodic
 meteorological events.\
-Our framework integrates:\
-- **Anomaly detection** (hybrid STL decomposition + Isolation Forest)\
-- **Change point detection** (PELT algorithm)\
+Our framework integrates:
+- **Anomaly detection** (hybrid STL decomposition + Isolation Forest)
+- **Change point detection** (PELT algorithm)
 - **Robust weighting strategies** (anomaly down-weighting, weighted
-Huber loss)\
+Huber loss)
 - **Forecasting models**: Seasonal Naive, SARIMAX, and GRU
 
 The results demonstrate that robustness mechanisms **substantially
@@ -27,10 +27,10 @@ models such as GRU are inherently more robust.
 
 ## 🚀 Features
 
--   Data preprocessing for CO₂ monitoring datasets\
--   Hybrid anomaly detection (statistical + ML-based)\
--   Change point detection with regime encoding\
--   Robust training strategies for time series models\
+-   Data preprocessing for CO₂ monitoring datasets
+-   Hybrid anomaly detection (statistical + ML-based)
+-   Change point detection with regime encoding
+-   Robust training strategies for time series models
 -   Reproducible experiments with multiple baselines
 
 ------------------------------------------------------------------------
@@ -76,9 +76,9 @@ If you use this code in your research, please cite:
 
 ------------------------------------------------------------------------
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 -   CO₂ data from the [IPR monitoring station
-    (ICOS)](https://meta.icos-cp.eu/objects/oCyeHuFmx9RcyUtZ7fM1C2i7)\
--   Anomaly detection with **Isolation Forest** (Scikit-learn)\
+    (ICOS)](https://meta.icos-cp.eu/objects/oCyeHuFmx9RcyUtZ7fM1C2i7)
+-   Anomaly detection with **Isolation Forest** (Scikit-learn)
 -   Change point detection using **PELT algorithm**
